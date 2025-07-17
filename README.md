@@ -28,5 +28,6 @@ Agentic AI用它來在Internet 搜尋資料
 我嘗試叫openmanus搜集関于香港個人资料私隱條例, 並summarize, 最後以HTML形式保存。
 
 以下錄影可見"它"動用Chrome瀏覽器在網上搜集資料, 並以HTML保存結果。
+![OpenManus locally](https://github.com/justinlaw360/agentic-openmanus/blob/main/openmanus_mcp.gif)
 
 當然Agentic AI最優勝的地方是可以建立自己的Tools,  並以MCP協定加以調用。有動手能力的, 可以試下。

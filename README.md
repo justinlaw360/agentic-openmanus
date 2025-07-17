@@ -13,7 +13,7 @@ cd OpenManus</code>
 #### Install須要元件
 <code>pip install -r requirements.txt</code>
 
-#### 安裝Wrightplay
+#### 安裝Playwright
 Agentic AI用它來在Internet 搜尋資料
 <code>playwright install</code>
 
